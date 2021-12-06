@@ -21,7 +21,7 @@ We chose these questions in particular because they may represent causes of or w
 ## Discussion:
 
 
-![alt text](https://github.com/Chi-O/heart-disease-eda/find/main/charts/cholVsDisease.PNG?raw=true)
+![alt text](./charts/cholVsDisease.PNG?raw=true)
 
 ## Conclusion:
 
