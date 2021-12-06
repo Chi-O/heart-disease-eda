@@ -34,14 +34,16 @@ This project was submitted as the final course project for CSCI 2000U during Fal
 
 
 ## README:
-Installation
+##### Installation
 Use the package manager pip to install plotly.
+```
 pip install plotly==5.4.0
+```
 
-Importing:
+##### Importing:
 
 Use these commands to import the following libraries:
-
+```
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -51,9 +53,11 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
+```
 
-
-Loading Dataset:
+##### Loading Dataset:
 
 To load the data set use the following code:
+```
 df = pd.read_csv('heart.csv')
+```
