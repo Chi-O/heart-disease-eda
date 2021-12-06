@@ -5,7 +5,9 @@ Alternate title: We Analyzed An UNBELIEVABLE Heart Failure Prediction Dataset an
 
 ## Authors:
 Chioma Okechukwu - Chi-O 
+
 Krishna Patel - kptg0
+
 William Dolan - Will-Dolan-VI
 
 ## Introduction:
