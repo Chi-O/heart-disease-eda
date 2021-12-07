@@ -94,7 +94,6 @@ This project was submitted as the final course project for CSCI 2000U during Fal
 ## README:
 
 ##### Installation
-
 Use the package manager pip to install plotly.
 ```
 pip install plotly==5.4.0
