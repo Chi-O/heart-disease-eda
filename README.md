@@ -1,5 +1,5 @@
-# Answers to 5 Questions on Heart Failure That Will CHANGE YOUR LIFE! 
-# ✩ An Exploratory Dataset Analysis  ✩
+# 🫀 Answers to 5 Questions on Heart Failure That Will CHANGE YOUR LIFE! 🫀
+# An Exploratory Dataset Analysis
 ## Authors:
 
 Chioma Okechukwu - `Chi-O` 
