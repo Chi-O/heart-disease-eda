@@ -90,7 +90,7 @@ This project was submitted as the final course project for CSCI 2000U during Fal
 ## README:
 
 #### Running our notebook online
-➡️ You can interactively run our full notebook on Deepnote [here](https://deepnote.com/@CSCI2000U-Final-Project/main-bBM0-U0cSvW-7tPypmWQWw)
+➡️ You can interactively run our full notebook on Deepnote [here](https://deepnote.com/@chioma-o/CSCI200U-Final-Project-f2w-pfILRPuUC8351WdMtg)
 
 
 #### Running our notebook locally
