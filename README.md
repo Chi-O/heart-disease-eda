@@ -24,6 +24,14 @@ We chose these questions in particular because they may represent causes of or w
 ![alt text](./charts/cholVsDisease.PNG?raw=true)
 
 ## Conclusion:
+Overall, we felt like this analysis turned out well as we managed to find information and draw conclusions from it.   Some things we reflected on were:
+- Graphs that we chose showed alot of information
+- 
+
+
+However, we had some things we could improve on:
+- Choose an improved dataset that does not contain errors or N/A's
+- 
 
 ## Acknowledgements:
 
