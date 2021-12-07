@@ -89,8 +89,13 @@ This project was submitted as the final course project for CSCI 2000U during Fal
 
 ## README:
 
-##### Installation
-Use the package manager pip to install plotly.
+#### Running our notebook online
+You can interactively run our full notebook fule on Deepnote [here](https://deepnote.com/@CSCI2000U-Final-Project/main-bBM0-U0cSvW-7tPypmWQWw)
+
+
+#### Running our notebook locally
+
+First, use the package manager pip to install `plotly`.
 ```
 pip install plotly==5.4.0
 ```
