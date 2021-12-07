@@ -2,7 +2,7 @@
 
 Alternate title:
 
-We Analyzed An UNBELIEVABLE Heart Failure Prediction Dataset and Here's What We Found. Answers to 5 Heart Failure Questions That Will CHANGE YOUR LIFE.
+We Analyzed an UNBELIEVABLE Heart Failure Prediction Dataset and Here's What We Found. Answers to 5 Heart Failure Questions That Will CHANGE YOUR LIFE.
 
 ## Authors:
 
