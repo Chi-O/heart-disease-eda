@@ -6,20 +6,20 @@ We Analyzed an UNBELIEVABLE Heart Failure Prediction Dataset and Here's What We 
 
 ## Authors:
 
-Chioma Okechukwu - Chi-O 
+Chioma Okechukwu - `Chi-O` 
 
-Krishna Patel - kptg0
+Krishna Patel - `kptg0`
 
-William Dolan - Will-Dolan-VI
+William Dolan - `Will-Dolan-VI`
 
 ## Introduction:
 
-This is our analysis of a dataset about patients that suffered from heart failure.
+This is our Exploratory Data Analysis on a dataset of patients that suffered from heart disease.
 
-The dataset (which can be found [here](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/) and on Kaggle [here](https://www.kaggle.com/fedesoriano/heart-failure-prediction)) is a combination of several datasets from America, Hungary, Switzerland and Germany and has a total of 918 records. The records include patient data such as sex, blood pressure and cholesterol for example, as well as whether the patient suffered from any heart disease.
+The dataset, sourced [here](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/)is a combination of several datasets from patients from America, Hungary, Switzerland and Germany, containing a total of 918 records. The data include patient's information such as age, sex, blood pressure and cholesterol level and records whether the patient suffered from heart disease.
 
-In our analysis, we use the information in the dataset to try to answer questions about the frequency and effects of heart disease. We also look into the frequency and relationships of different causes of chest pain. 
-We chose these questions in particular because they may represent causes of or ways to identify heart disease. Answers to these questions may help identify people with, or at risk of getting heart disease.
+In our analysis, we drew insight from the data to answer questions on which factors contribute to heart disease, and any relationship between the various factors. For instance, "are older patients more likely to have higher levels of cholesterol?" Another question we explored was the prevalence and relationships of different causes of chest pain.  
+Our primary motivation behind these questions was to allow for early detection of heart disease. In answering our questions, we hope to present ways to identify individuals who may show signs of, or are at risk of getting heart disease.
 
 ## Discussion:
 
@@ -27,7 +27,7 @@ We chose these questions in particular because they may represent causes of or w
 
 Keeping in mind that all the records were people who suffered heart failure, we found that most of the patients were between the ages of 40 and 65, with the oldest being 77 and the youngest being 28. This suggests that in general, heart failure is much more common among older people, which isn't particularily surprising.
 
-We didn't look into it much during the main analysis, but we also noticed that "oldpeak", a representation of the shape of the ST segment of an electrogram, was had more people with heart diseases with the higher values than people without. This is, again, an expected result. Higher values can indicate an "ST depression" which is a known effect of certain heart diseases.
+We didn't look into it much during the main analysis, but we also noticed that `Oldpeak`, a representation of the shape of the ST segment of an electrogram, was had more people with heart diseases with the higher values than people without. This is, again, an expected result. Higher values can indicate an "ST depression" which is a known effect of certain heart diseases.
 
 We also noticed that Blood pressure and heart rate had weird spikes in the charts. We created a more detailed chart and found that the spikes were on multiples of 5 and 10, so we concluded that they occurred because some of the recorded data was rounded when it was input. The data comes from 5 different studies so it's possible that they had different conventions regarding how data was input.
 
