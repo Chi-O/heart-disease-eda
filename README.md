@@ -1,9 +1,5 @@
-# Answers to Five of Your Burning Questions About Heart Failure! A Dataset Analysis
-
-Alternate title:
-
-We Analyzed an UNBELIEVABLE Heart Failure Prediction Dataset and Here's What We Found. Answers to 5 Heart Failure Questions That Will CHANGE YOUR LIFE.
-
+# Answers to 5 Questions on Heart Failure That Will CHANGE YOUR LIFE! 
+# ✩ An Exploratory Dataset Analysis  ✩
 ## Authors:
 
 Chioma Okechukwu - `Chi-O` 
@@ -16,9 +12,9 @@ William Dolan - `Will-Dolan-VI`
 
 This is our Exploratory Data Analysis on a dataset of patients that suffered from heart disease.
 
-The dataset, sourced [here](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/)is a combination of several datasets from patients from America, Hungary, Switzerland and Germany, containing a total of 918 records. The data include patient's information such as age, sex, blood pressure and cholesterol level and records whether the patient suffered from heart disease.
+The dataset, sourced [here](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/) is a combination of several datasets from patients from America, Hungary, Switzerland and Germany, containing a total of 918 records. The data include patient's information such as age, sex, blood pressure and cholesterol level and records whether the patient suffered from heart failure.
 
-In our analysis, we drew insight from the data to answer questions on which factors contribute to heart disease, and any relationship between the various factors. For instance, "are older patients more likely to have higher levels of cholesterol?" Another question we explored was the prevalence and relationships of different causes of chest pain.  
+In our analysis, we drew insight from the data to answer questions on which factors contribute to heart disease, and any relationship between the various factors. For instance, "are older patients more likely to have higher levels of cholesterol?" Another topic we explored was the prevalence and relationships of different causes of chest pain.  
 Our primary motivation behind these questions was to allow for early detection of heart disease. In answering our questions, we hope to present ways to identify individuals who may show signs of, or are at risk of getting heart disease.
 
 ## Discussion:
