@@ -75,14 +75,13 @@ For our final question, we searched for any correlation between the chest pains 
 ![Cholesterol and Chest Pain Chart](./charts/cholVsChestPain.PNG?raw=true)
 
 ## Conclusion:
-Overall, we felt like this analysis turned out well as we managed to find information and draw conclusions from it.   Some things we reflected on were:
-- Graphs that we chose showed alot of information
-- 
+We found that there was a lot of information in the dataset that could potentially be used to predict heart disease and, if compared to a similar dataset of healthy people may even be used to predict heart failure.
 
 
 However, we had some things we could improve on:
 - Choose an improved dataset that does not contain errors or N/A's
-- 
+- Our choices of graphs for certain questions were poor
+- We could have researched our data more and included predictions
 
 ## Acknowledgements:
 
